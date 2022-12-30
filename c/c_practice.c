@@ -36,4 +36,11 @@ for (j = 0; j < 10; j++) {
   }
   printf("%d\n", j);
 }
+
+int myNumbers[] = {25, 50, 75, 100};
+int k;
+
+for (k = 0; k < 4; k++) {
+  printf("%d\n", myNumbers[k]);
+}
 }
