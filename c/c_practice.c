@@ -43,4 +43,5 @@ int k;
 for (k = 0; k < 4; k++) {
   printf("%d\n", myNumbers[k]);
 }
+const int minutesPerHour = 60;
 }
