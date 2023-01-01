@@ -44,4 +44,10 @@ for (k = 0; k < 4; k++) {
   printf("%d\n", myNumbers[k]);
 }
 const int minutesPerHour = 60;
+int time = 20;
+if (time < 18) {
+  printf("Good day.\n");
+} else {
+  printf("Good evening.\n");
+}
 }
