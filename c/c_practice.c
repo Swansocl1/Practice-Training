@@ -50,4 +50,9 @@ if (time < 18) {
 } else {
   printf("Good evening.\n");
 }
+{
+int x = 5;
+int y = 10;
+printf("%d\n", x + y);
+}
 }
