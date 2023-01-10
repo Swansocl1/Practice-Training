@@ -55,12 +55,12 @@ int x = 5;
 int y = 10;
 printf("%d\n", x + y);
 }
-}
 
-int second (void)
+int myNumberss[] = {25, 50, 75, 100};
+int q;
+
+for (q = 0; q < 4; q++) 
 {
-int myNumbers[] = {25, 50, 75, 100};
-myNumbers[0] = 33;
-
-printf("%d", myNumbers[0]);
+  printf("%d\n", myNumberss[i]);
+}
 }
