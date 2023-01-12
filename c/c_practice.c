@@ -61,11 +61,4 @@ int y = 10;
 printf("%d\n", x + y);
 }
 
-int myNumberss[] = {25, 50, 75, 100};
-int q;
-
-for (q = 0; q < 4; q++) 
-{
-  printf("%d\n", myNumberss[i]);
-}
 }
