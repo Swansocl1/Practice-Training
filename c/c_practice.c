@@ -61,4 +61,7 @@ int y = 10;
 printf("%d\n", x + y);
 }
 
+int myAge = 43;
+printf("%p\n", &myAge);
+
 }
