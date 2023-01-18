@@ -72,7 +72,13 @@ printf("%d\n", myAge);
 // Output the memory address of myAge (0x7ffe5367e044)
 printf("%p\n", &myAge);
 
-// Output the memory address of myAge with the pointer (0x7ffe5367e044)
+// Output the memory address 
 printf("%p\n", ptr);
+
+// Reference
+printf("%p\n", ptr);
+
+// Dereference
+printf("%d\n", *ptr);
 
 }
