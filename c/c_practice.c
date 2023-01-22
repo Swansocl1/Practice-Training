@@ -94,3 +94,18 @@ scanf("%d", &myNum);
 printf("Your number is: %d\n", myNum);
 return 0;
 }
+
+void myFunction(char name[]) {
+  printf("Hello %s\n", name);
+}
+
+int main2() {
+  myFunction("Liam");
+  myFunction("Jenny");
+  myFunction("Anja");
+  return 0;
+}
+
+// Hello Liam
+// Hello Jenny
+// Hello Anja
