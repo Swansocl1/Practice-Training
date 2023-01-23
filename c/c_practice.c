@@ -104,6 +104,11 @@ int main2() {
   myFunction("Jenny");
   myFunction("Anja");
   return 0;
+
+  
+int myNum = 5;
+float myFloatNum = 5.99;
+char myLetter = 'D';
 }
 
 // Hello Liam
